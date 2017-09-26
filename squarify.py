@@ -28,6 +28,3 @@ im.close()
 # x = distance between image and background edges
 # y = width of image
 # z = total image width
-
-
-
